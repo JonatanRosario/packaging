@@ -1,0 +1,31 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Django
+*.sqlite3
+/db.sqlite3
+/static/
+media/
+
+# Environment
+.env
+.venv/
+venv/
+
+# Pytest
+.cache
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Others
+*.log
